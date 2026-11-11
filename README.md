@@ -2,6 +2,11 @@
 
 A read-only MCP server that fetches public web pages and extracts clean text, metadata, headings, and focus-matched facts.
 
+## Demo
+
+<img width="1440" height="900" alt="Screenshot 2026-11-11 at 1 12 24 PM" src="https://github.com/user-attachments/assets/7cc69618-3f8a-4cec-bd67-9d8599d9aeb2" />
+
+
 ## Quickstart
 
 Requires Node.js 20 or newer.
